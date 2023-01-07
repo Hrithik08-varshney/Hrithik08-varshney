@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Hrithik08-varshney
 - 👀 I’m interested in App Development
-- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me ... hritik.varshney2000@gmail.com
 
