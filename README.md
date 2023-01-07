@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hrithik08-varshney
+- 👋 Hi, I’m @Hrithik08-varshney, I am a Front End Developer 
 - 👀 I’m interested in App Development
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me ... hritik.varshney2000@gmail.com
