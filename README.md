@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hrithik Varshney</h1>
-<h3 align="center">A passionate Software Developer from India. I am proficient in front-end development. Also having great interest in back-end development for which I say ~ I am working on it.</h3>
+<h3 align="center">Software developer with 2+ years of experience in designing, developing, and deploying scalable applications. Skilled
+in front-end and back-end technologies, with expertise in ReactJS, React Native and Unit Testing. Intermediate
+proficiency in Next.js, Node.js, Express.js and MongoDB. Proven ability to deliver impactful solutions for B2B and
+admin panel projects, utilizing robust testing and data processing techniques to ensure application reliability and
+user satisfaction.</h3>
 <img align ="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrithik08-varshney&label=Profile%20views&color=0e75b6&style=flat" alt="hrithik08-varshney" /> </p>
 
