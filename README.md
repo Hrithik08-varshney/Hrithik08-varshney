@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hrithik Varshney</h1>
-<h3 align="center">Software developer with 2+ years of experience in designing, developing, and deploying scalable applications. Skilled
+<h3 align="center">Software developer with 2.5+ years of experience in designing, developing, and deploying scalable applications. Skilled
 in front-end and back-end technologies, with expertise in ReactJS, React Native and Unit Testing. Intermediate
 proficiency in Next.js, Node.js, Express.js and MongoDB. Proven ability to deliver impactful solutions for B2B and
 admin panel projects, utilizing robust testing and data processing techniques to ensure application reliability and
