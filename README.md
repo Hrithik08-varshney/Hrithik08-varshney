@@ -1,23 +1,49 @@
 <h1 align="center">Hi 👋, I'm Hrithik Varshney</h1>
 
 <h3 align="center">
-Software Developer with 3.5+ years of experience building scalable web & mobile applications.
-Skilled in ReactJS, React Native, and modern JavaScript ecosystems, with hands-on experience using AI tools to boost development productivity.
+🚀 Software Developer with 3.5+ years of experience building scalable B2B, web & mobile applications  
+⚛️ React • React Native • Next.js • JavaScript Ecosystem  
+🤖 Leveraging AI tools to boost development speed & code quality
 </h3>
 
 ---
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-### 👨‍💻 About Me
-- 🌱 Currently learning **Node.js, Express.js, MongoDB**
-- 🤖 Exploring **AI tools like GitHub Copilot, ChatGPT for code generation, debugging & optimization**
-- 💬 Ask me about **JavaScript, TypeScript, React, React Native, C++, AI-assisted development**
-- 📫 Reach me at **hrithik.varshney2000@gmail.com**
+## 👨‍💻 About Me
+- 💼 3.5+ years of experience in **frontend & mobile development**
+- ⚛️ Specialized in **ReactJS & React Native applications**
+- 🌐 Experience with **Next.js, Node.js, Express.js, MongoDB**
+- 🤖 Using **GitHub Copilot & ChatGPT** for faster development & debugging
+- 📱 Built scalable **B2B apps & admin panels**
+- 📫 Reach me: **hrithik.varshney2000@gmail.com**
 
 ---
 
-### 🌐 Connect with Me
+## 🚀 Featured Projects
+
+### 🔹 Movix (Movie App)
+- 🎬 Movie & series browsing platform  
+- 🔍 Search, trending, and detailed views  
+- ⚛️ Built using React  
+
+---
+
+### 🔹 TASK-GER (Task Manager)
+- ✅ CRUD-based task management system  
+- 📂 Active & completed task sections  
+- ⚛️ Built with React  
+
+---
+
+### 🔹 100Panel (Admin Panel)
+- 📊 B2B admin dashboard system  
+- ⚡ Data handling & performance optimization  
+- 🧩 Built using React + modern JS stack  
+
+---
+
+## 🌐 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/hrithik-varshney-687206192" target="_blank">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons/icons/linkedin.svg" height="30" width="30" />
@@ -38,27 +64,20 @@ Skilled in ReactJS, React Native, and modern JavaScript ecosystems, with hands-o
 
 ---
 
-### 🛠️ Languages, Tools & AI
+## 🛠️ Tech Stack & Tools
+
 <p align="left">
-<img src="https://skillicons.dev/icons?i=bootstrap,c,cpp,css,express,firebase,git,html,js,jest,mongodb,nodejs,photoshop,postman,react,redux,sass,ts" />
+<img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,js,ts,nodejs,express,mongodb,redux,firebase,git,postman,sass,bootstrap,cpp" />
 </p>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=github" /> 
-<b> GitHub Copilot</b> • <b>ChatGPT</b> • AI-assisted development
+<img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" height="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="40" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hrithik08-varshney&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrithik08-varshney&layout=compact&theme=tokyonight" />
-</p>
+## 📈 GitHub Activity
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=hrithik08-varshney&theme=tokyonight" />
@@ -66,7 +85,15 @@ Skilled in ReactJS, React Native, and modern JavaScript ecosystems, with hands-o
 
 ---
 
-### 👀 Profile Views
+## 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=hrithik08-varshney&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+## 👀 Profile Views
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=hrithik08-varshney&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
