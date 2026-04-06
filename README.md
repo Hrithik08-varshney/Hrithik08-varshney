@@ -85,14 +85,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hrithik08-varshney&theme=tokyonight&row=1&column=6" />
-</p>
-
----
-
 ## 👀 Profile Views
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=hrithik08-varshney&label=Profile%20views&color=0e75b6&style=flat" />
