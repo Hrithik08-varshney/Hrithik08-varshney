@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hrithik Varshney</h1>
 
 <h3 align="center">
-🚀 Software Developer with 3.5+ years of experience building scalable B2B, web & mobile applications  
+🚀 Software Developer with 4+ years of experience building scalable B2B, web & mobile applications  
 ⚛️ React • React Native • Next.js • JavaScript Ecosystem  
 🤖 Leveraging AI tools to boost development speed & code quality
 </h3>
