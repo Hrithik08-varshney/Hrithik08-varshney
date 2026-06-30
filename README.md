@@ -11,7 +11,7 @@
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ## 👨‍💻 About Me
-- 💼 3.5+ years of experience in **frontend & mobile development**
+- 💼 4+ years of experience in **frontend & mobile development**
 - ⚛️ Specialized in **ReactJS & React Native applications**
 - 🌐 Experience with **Next.js, Node.js, Express.js, MongoDB**
 - 🤖 Using **GitHub Copilot & ChatGPT** for faster development & debugging
